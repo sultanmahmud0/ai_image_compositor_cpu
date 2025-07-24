@@ -1,0 +1,14 @@
+torch
+torchvision
+opencv-python
+transformers
+timm
+matplotlib
+Pillow
+numpy
+scikit-image
+onnxruntime
+inflect
+git+https://github.com/facebookresearch/segment-anything.git
+
+
