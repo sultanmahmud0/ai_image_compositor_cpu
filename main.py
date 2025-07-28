@@ -60,7 +60,7 @@ def run_pipeline(object_path, background_path):
     print("✅ Pipeline steps complete.")
 
 if __name__ == "__main__":
-    object_img_path = "inputs/object.jpg"
+    object_img_path = "inputs/object.png"
     background_img_path = "inputs/background.jpg"
     run_pipeline(object_img_path, background_img_path)
 
